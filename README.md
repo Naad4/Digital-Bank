@@ -1,6 +1,6 @@
 # Digital Bank
 
-### É necessário um programa de teste de rotas como Postman ou Insomnia para rodar o projeto
+<h1><img src="https://ik.imagekit.io/Naad4/imagem_2024-03-17_141309325.png?updatedAt=1710695678301" /></h1>
 
 esta RESTful API permite:
 
@@ -14,6 +14,11 @@ esta RESTful API permite:
 -   Consultar saldo da conta bancária
 -   Emitir extrato bancário
 
+## Ferramentas para executar o projeto
+
+-[Insomnia](https://insomnia.rest/download)
+
+-[Postman](https://www.postman.com)
 
 ## Endpoints
 
